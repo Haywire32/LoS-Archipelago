@@ -3,8 +3,8 @@ An Archipelago randomizer for Castlevania: Lords of Shadow - Ultimate Edition on
 The mod randomizes available levels, gear, relics and gem upgrades.
 The goal is to beat a set amount of levels to unlock the Final Fight and beat the boss.
 
-### What are checks?
-- Fallen knights who have gems
+### What are location checks?
+- Fallen brotherhood knights who have gems
 - Beating a level
 - Brotherhood Arks
 
