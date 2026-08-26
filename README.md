@@ -33,7 +33,7 @@ Either delete or backup and remove your save file "Castlevania.profile" from \St
 Open archipelago launcher - run "Lords of Shadow Client" to launch the game.
 
 ### Current logic
-My active logic can be found in this [sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQjv_H6eOA483HFKPu6vRm2HLUcI3mxMTI3ELEIZKJKnLIzfyrLQoMvav21sJU80w/pubhtml )
+My active logic can be found in this [sheet.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQjv_H6eOA483HFKPu6vRm2HLUcI3mxMTI3ELEIZKJKnLIzfyrLQoMvav21sJU80w/pubhtml )
 
 It is a work in progress and is sure to have mistakes. It can be useful for completing seeds though.
 I'll happily accept feedback on it.
