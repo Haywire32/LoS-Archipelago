@@ -1,4 +1,4 @@
-# Castlevania Lords of Shadow Archipelago
+# Castlevania: Lords of Shadow Archipelago
 An Archipelago randomizer for Castlevania: Lords of Shadow - Ultimate Edition on Steam.
 The mod randomizes available levels, gear, relics and gem upgrades.
 The goal is to beat a set amount of levels to unlock the Final Fight and beat the boss.
