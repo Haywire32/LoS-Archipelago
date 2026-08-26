@@ -35,11 +35,13 @@ Open archipelago launcher - run "Lords of Shadow Client" to launch the game.
 ### Current logic
 My active logic can be found in this [sheet.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQjv_H6eOA483HFKPu6vRm2HLUcI3mxMTI3ELEIZKJKnLIzfyrLQoMvav21sJU80w/pubhtml )
 
-It is a work in progress and is sure to have mistakes. It can be useful for completing seeds though.
+It is a work in progress and probably has mistakes. It can be useful for completing seeds though.
 I'll happily accept feedback on it.
 
 ### Feedback or other questions
 I'd love feedback on design choices and bugs in the [Castlevania lords of shadow](https://discord.com/channels/731205301247803413/1420192076259393567) channel in the [Archipelago discord](https://discord.gg/8Z65BR2)
+
+The current version is still unstable and most likely has bugs.
 
 ### Future plans
 Trials are not yet implemented as checks.
