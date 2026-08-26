@@ -40,3 +40,8 @@ I'll happily accept feedback on it.
 
 ### Feedback or other questions
 I'd love feedback on design choices and bugs in the [Castlevania lords of shadow](https://discord.com/channels/731205301247803413/1420192076259393567) channel in the [Archipelago discord](https://discord.gg/8Z65BR2)
+
+### Future plans
+Trials are not yet implemented as checks.
+
+DLC maps are currently disabled.
