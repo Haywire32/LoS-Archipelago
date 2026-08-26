@@ -4,17 +4,17 @@ The mod randomizes available levels, gear, relics and gem upgrades.
 The goal is to beat a set amount of levels to unlock the Final Fight and beat the boss.
 
 ### What are checks?
-Fallen knights who have gems
-Beating a level
-Brotherhood Arks
+- Fallen knights who have gems
+- Beating a level
+- Brotherhood Arks
 
 ### What are the unlocks?
-Level access
-Life, light and shadow gems are given 2x at a time
-Combat cross upgrades
-Relics
-Consumable refill
-Experience points
+- Level access
+- Life, light and shadow gems are given 2x at a time
+- Combat cross upgrades
+- Relics
+- Consumable refill
+- Experience points
 
 
 ### How to install
