@@ -46,4 +46,10 @@ The current version is still unstable and most likely has bugs.
 ### Future plans
 Trials are not yet implemented as checks.
 
-DLC maps are currently disabled.
+DLC maps are currently disabled because logic hasn't been mapped.
+
+Color variations on world map that show whether you have remaining checks in logic in a level (unsure if I can achieve this)
+
+Traps
+
+Deathlink
