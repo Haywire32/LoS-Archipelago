@@ -33,6 +33,8 @@ Back it up first if you want to keep it.
 
 Open Archipelago Launcher - run "Lords of Shadow Client" to launch the game.
 
+Connect to the Archipelago server before pressing "New Game".
+
 ### Current logic
 My current logic can be found in this [sheet.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQjv_H6eOA483HFKPu6vRm2HLUcI3mxMTI3ELEIZKJKnLIzfyrLQoMvav21sJU80w/pubhtml )
 
