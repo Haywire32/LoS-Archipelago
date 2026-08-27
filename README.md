@@ -39,7 +39,7 @@ Open Archipelago Launcher - run "Lords of Shadow Client"
 Connect to the Archipelago server and enter slot name, then launch the game normally on Steam.
 
 ### Current logic
-My current logic can be found in this [sheet.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQjv_H6eOA483HFKPu6vRm2HLUcI3mxMTI3ELEIZKJKnLIzfyrLQoMvav21sJU80w/pubhtml )
+My current logic can be found in this [sheet.](https://docs.google.com/spreadsheets/d/1RQx8A5rJAoTpEiopHlmUMY5vjVQFeupraoh7jmgP3mI/edit?usp=sharing)
 
 It is a work in progress and probably has mistakes. It can be useful for completing seeds, though.
 
