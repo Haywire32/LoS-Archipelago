@@ -13,7 +13,7 @@ The goal is to beat a set number of levels to unlock the Final Fight and beat th
 - Relics and magic
 - Life, light and shadow gems are given two at a time
 - Combat cross upgrades
-- Daggers, fairies, holy water, dark crystal and their capacity upgrades
+- Subweapons and their capacity upgrades
 - Consumable refill
 - Experience points
 
@@ -48,16 +48,18 @@ I'd love feedback on design choices and bugs in the [Castlevania lords of shadow
 
 The current version is still unstable and most likely has bugs.
 
-### Future plans
+### Future plans and ideas
 Trials are not yet implemented as checks.
 
 DLC maps are currently disabled because logic hasn't been mapped.
 
-Possible map indicators to show in-logic progression
-
-Traps
+Traps - poison, magic drain
 
 DeathLink
+
+Possible map indicators to show in-logic progression
+
+Brotherhood knight scrolls giving hints
 
 ### Disclaimer
 AI assistance was used for reverse engineering and hook implementation. Item and logic mapping, in-game testing, verification, and design decisions were done manually by me.
