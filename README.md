@@ -34,9 +34,9 @@ On Steam, enter properties for the game and disable "Steam Cloud" under General.
 Remove your save file "Castlevania.profile" from \Steam\userdata\User-ID\234080\remote. 
 Back it up first if you want to keep it.
 
-Open Archipelago Launcher - run "Lords of Shadow Client" to launch the game.
+Open Archipelago Launcher - run "Lords of Shadow Client"
 
-Connect to the Archipelago server before pressing "New Game".
+Connect to the Archipelago server and enter slot name, then launch the game normally on Steam.
 
 ### Current logic
 My current logic can be found in this [sheet.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQjv_H6eOA483HFKPu6vRm2HLUcI3mxMTI3ELEIZKJKnLIzfyrLQoMvav21sJU80w/pubhtml )
