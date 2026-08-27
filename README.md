@@ -28,7 +28,9 @@ Drop "dinput8.dll" into \Steam\steamapps\common\CastlevaniaLoS\bin
 
 On Steam, enter properties for the game and disable "Steam Cloud" under General.
 
-Remove your save file "Castlevania.profile" from \Steam\userdata\User-ID\234080\remote. Back it up first if you want to keep it.
+Remove your save file "Castlevania.profile" from \Steam\userdata\User-ID\234080\remote. 
+
+Back it up first if you want to keep it.
 
 Open Archipelago Launcher - run "Lords of Shadow Client" to launch the game.
 
