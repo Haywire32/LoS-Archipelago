@@ -1,17 +1,17 @@
 # Castlevania: Lords of Shadow Archipelago
 An Archipelago randomizer for Castlevania: Lords of Shadow - Ultimate Edition on Steam.
 The mod randomizes available levels, gear, relics and gem upgrades.
-The goal is to beat a set amount of levels to unlock the Final Fight and beat the boss.
+The goal is to beat a set number of levels to unlock the Final Fight and beat the boss.
 
-### What are location checks?
+### Current location checks
 - Fallen brotherhood knights who have gems
 - Beating a level
 - Brotherhood Arks
 
-### What are the unlocks?
+### Current items
 - Level access
 - Relics and magic
-- Life, light and shadow gems are given 2x at a time
+- Life, light and shadow gems are given two at a time
 - Combat cross upgrades
 - Consumable refill
 - Experience points
@@ -20,26 +20,26 @@ The goal is to beat a set amount of levels to unlock the Final Fight and beat th
 ### How to install
 Install Archipelago version 0.6.7
 
-Download the files. Install los.apworld by double clicking it
+Download the files. Install los.apworld by double-clicking it
 
 Fill out the yaml and make a seed like usual in Archipelago.
 
 Drop "dinput8.dll" into \Steam\steamapps\common\CastlevaniaLoS\bin
 
-On steam, enter properties for the game and disable "Steam Cloud" under General.
+On Steam, enter properties for the game and disable "Steam Cloud" under General.
 
-Either delete or backup and remove your save file "Castlevania.profile" from \Steam\userdata\68317992\234080\remote
+Either delete or backup and remove your save file "Castlevania.profile" from \Steam\userdata\User-ID\234080\remote
 
-Open archipelago launcher - run "Lords of Shadow Client" to launch the game.
+Open Archipelago Launcher - run "Lords of Shadow Client" to launch the game.
 
 ### Current logic
-My active logic can be found in this [sheet.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQjv_H6eOA483HFKPu6vRm2HLUcI3mxMTI3ELEIZKJKnLIzfyrLQoMvav21sJU80w/pubhtml )
+My current logic can be found in this [sheet.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQjv_H6eOA483HFKPu6vRm2HLUcI3mxMTI3ELEIZKJKnLIzfyrLQoMvav21sJU80w/pubhtml )
 
-It is a work in progress and probably has mistakes. It can be useful for completing seeds though.
+It is a work in progress and probably has mistakes. It can be useful for completing seeds, though.
 I'll happily accept feedback on it.
 
 ### Feedback or other questions
-I'd love feedback on design choices and bugs in the [Castlevania lords of shadow](https://discord.com/channels/731205301247803413/1420192076259393567) channel in the [Archipelago discord](https://discord.gg/8Z65BR2)
+I'd love feedback on design choices and bugs in the [Castlevania lords of shadow channel](https://discord.com/channels/731205301247803413/1420192076259393567) in the [Archipelago discord](https://discord.gg/8Z65BR2)
 
 The current version is still unstable and most likely has bugs.
 
@@ -48,11 +48,11 @@ Trials are not yet implemented as checks.
 
 DLC maps are currently disabled because logic hasn't been mapped.
 
-Color variations on world map that show whether you have remaining checks in logic in a level (unsure if I can achieve this)
+Map indicators to show progression
 
 Traps
 
-Deathlink
+DeathLink
 
 ### Disclaimer
-Reverse engineering and hook implementation have been heavily assisted by AI. Mapping of items and logic was done manually, as well as testing in-game testing and verifying. Every design decision has been my own.
+AI assistance was used for reverse engineering and hook implementation. Item and logic mapping, in-game testing, verification, and design decisions were done manually by me.
