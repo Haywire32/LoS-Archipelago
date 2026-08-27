@@ -63,6 +63,8 @@ More yaml options
 
 Ingame tracker that counts completed levels
 
+Ingame messages of sent/recieved items
+
 Possible map indicators to show in-logic progression
 
 Brotherhood knight scrolls giving hints
