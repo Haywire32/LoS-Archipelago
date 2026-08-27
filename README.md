@@ -59,6 +59,8 @@ DeathLink
 
 More yaml options
 
+Ingame tracker that counts completed levels
+
 Possible map indicators to show in-logic progression
 
 Brotherhood knight scrolls giving hints
