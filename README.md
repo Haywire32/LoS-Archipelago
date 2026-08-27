@@ -57,6 +57,8 @@ Traps - poison, magic drain
 
 DeathLink
 
+More yaml options
+
 Possible map indicators to show in-logic progression
 
 Brotherhood knight scrolls giving hints
