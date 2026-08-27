@@ -53,3 +53,6 @@ Color variations on world map that show whether you have remaining checks in log
 Traps
 
 Deathlink
+
+### Disclaimer
+Reverse engineering and hook implementation have been heavily assisted by AI. Mapping of items and logic was done manually, as well as testing in-game testing and verifying. Every design decision has been my own.
