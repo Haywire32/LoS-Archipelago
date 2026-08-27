@@ -36,6 +36,7 @@ Open Archipelago Launcher - run "Lords of Shadow Client" to launch the game.
 My current logic can be found in this [sheet.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQjv_H6eOA483HFKPu6vRm2HLUcI3mxMTI3ELEIZKJKnLIzfyrLQoMvav21sJU80w/pubhtml )
 
 It is a work in progress and probably has mistakes. It can be useful for completing seeds, though.
+
 I'll happily accept feedback on it.
 
 ### Feedback or other questions
