@@ -4,8 +4,8 @@ The mod randomizes available levels, gear, relics and gem upgrades.
 The goal is to beat a set number of levels to unlock the Final Fight and beat the boss.
 
 ### Current location checks
-- Fallen brotherhood knights who have gems
 - Beating a level
+- Fallen brotherhood knights who have gems
 - Brotherhood Arks
 
 ### Current items
