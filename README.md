@@ -13,6 +13,7 @@ The goal is to beat a set number of levels to unlock the Final Fight and beat th
 - Relics and magic
 - Life, light and shadow gems are given two at a time
 - Combat cross upgrades
+- Daggers, fairies, holy water, dark crystal and their capacity upgrades
 - Consumable refill
 - Experience points
 
