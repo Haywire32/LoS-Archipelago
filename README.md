@@ -28,7 +28,7 @@ Drop "dinput8.dll" into \Steam\steamapps\common\CastlevaniaLoS\bin
 
 On Steam, enter properties for the game and disable "Steam Cloud" under General.
 
-Either delete or backup and remove your save file "Castlevania.profile" from \Steam\userdata\User-ID\234080\remote
+Remove your save file "Castlevania.profile" from \Steam\userdata\User-ID\234080\remote. Back it up first if you want to keep it.
 
 Open Archipelago Launcher - run "Lords of Shadow Client" to launch the game.
 
@@ -48,7 +48,7 @@ Trials are not yet implemented as checks.
 
 DLC maps are currently disabled because logic hasn't been mapped.
 
-Map indicators to show progression
+Possible map indicators to show in-logic progression
 
 Traps
 
