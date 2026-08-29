@@ -7,15 +7,17 @@ The goal is to beat a set number of levels to unlock the Final Fight and beat th
 - Beating a level
 - Fallen brotherhood knights who have gems
 - Brotherhood Arks
+- Trials
 
 ### Current items
 - Level access
 - Relics and magic
-- Life, light and shadow gems are given two at a time
+- Life, light and shadow gems
 - Combat cross upgrades
 - Subweapons and their capacity upgrades
 - Consumable refill
 - Experience points
+- Traps
 
 ### Download
 [Download can be found here.](https://github.com/Haywire32/LoS-Archipelago/releases/tag/v0.6.0)
@@ -51,19 +53,9 @@ I'd love feedback on design choices and bugs in the [Castlevania lords of shadow
 The current version is still unstable and most likely has bugs.
 
 ### Future plans and ideas
-Trials are not yet implemented as checks.
-
 DLC maps are currently disabled because logic hasn't been mapped.
 
-Traps - poison, magic drain
-
 DeathLink
-
-More yaml options
-
-Ingame tracker that counts completed levels
-
-Ingame messages of sent/recieved items
 
 Possible map indicators to show in-logic progression
 
