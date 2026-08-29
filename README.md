@@ -18,7 +18,7 @@ The goal is to beat a set number of levels to unlock the Final Fight and beat th
 - Experience points
 
 ### Download
-[Download can be found here.](https://github.com/Haywire32/Castlevania-Lords-of-Shadow-Archipelago-randomizer/releases/tag/v0.5.0)
+[Download can be found here.](https://github.com/Haywire32/LoS-Archipelago/releases/tag/v0.6.0)
 
 ### How to install
 Install Archipelago version 0.6.7
