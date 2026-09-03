@@ -20,7 +20,7 @@ The goal is to beat a set number of levels to unlock the Final Fight and beat th
 - Traps
 
 ### Download
-[Download can be found here.](https://github.com/Haywire32/LoS-Archipelago/releases/tag/v0.6.0)
+[Download can be found here.](https://github.com/Haywire32/LoS-Archipelago/releases/tag/v0.6.1)
 
 ### How to install
 Install Archipelago version 0.6.7
