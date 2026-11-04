@@ -62,4 +62,6 @@ Possible map indicators to show in-logic progression
 Brotherhood knight scrolls giving hints
 
 ### Disclaimer
-AI assistance was used for reverse engineering and hook implementation. Item and logic mapping, in-game testing, verification, and design decisions were done manually by me.
+ChatGPT/Codex was used to write and debug the Python APWorld/client, C++ DLL hooks and Lua game integration. I also drew on experience from my earlier RFG mod, where I did more manual coding.
+
+I direct the features and balancing, maintain the progression logic spreadsheet, and spend many hours manually testing, reproducing bugs and verifying fixes. I take responsibility for releases, support and fixes.
