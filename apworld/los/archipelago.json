@@ -1,0 +1,10 @@
+{
+  "game": "Castlevania: Lords of Shadow",
+  "minimum_ap_version": "0.6.7",
+  "world_version": "0.7.6",
+  "compatible_version": 7,
+  "version": 72,
+  "authors": [
+    "Simon"
+  ]
+}

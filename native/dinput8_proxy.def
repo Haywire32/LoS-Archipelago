@@ -1,0 +1,4 @@
+LIBRARY "dinput8"
+EXPORTS
+    DirectInput8Create=_ProxyDirectInput8Create@20
+    LoSAPBridgeStartForTest=_LoSAPBridgeStartForTest@12
